@@ -1,0 +1,23 @@
+.gradiante-roxo {
+    background: #521296;
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(12, 1, 252, 1));
+    background: linear-gradient(to right, rgb(51, 2, 104), rgb(12, 1, 20))
+}
+
+.font-finansflow {
+    font-style: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cor-icone {
+    color: azure;
+
+}
+
+.cor-font {
+    color:aliceblue ;
+}
+
+.cor-font-preta {
+    color: rgba(0, 0, 0, 0.5);
+}
